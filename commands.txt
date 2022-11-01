@@ -21,3 +21,6 @@ Run app locally:
 Run migrations:
 	$ python manage.py makemigrations
 	$ python manage.py migrate
+
+Create super admin user:
+	$ python manage.py createsuperuser
